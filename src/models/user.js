@@ -6,5 +6,3 @@ export default class User {
         this.city = city
     }
 }
-
-//not: new user seklınde cagırdıgımzda constructor kısmı calısır. sonra bana nesne verır cagırdıgım yerde daha sonra  onuda userservicedekı bır fonksıyona yollayabılrım
